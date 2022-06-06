@@ -23,14 +23,14 @@ class Faith extends Human {
     List<String> getAbout() {
         return [
             "BSc Computer Science w/ AI @ University of Nottingham '22",
-            "Interested in developing games, apps, and AI agents"
+            "Interested in developing games, apps, and AI agents",
             "Violinist, book reader, an early riser",
             "An ailurophile that melts at the sight of cats"
         ];
     }
 
     Map _connect = {
-        "Email": "faith_new@hotmail.com"
+        "Email": "faith_new@hotmail.com",
         "Linkedin": "https://www.linkedin.com/in/faith-new-xin-yue"
     }
 
