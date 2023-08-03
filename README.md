@@ -25,8 +25,8 @@ class Faith extends Human {
         return [
             "BSc Computer Science w/ AI @ University of Nottingham '22",
             "Interested in developing games, apps, and AI agents",
-            "Violinist, book reader, an early riser",
-            "An ailurophile that melts at the sight of cats"
+            "Occasionally spotted playing the violin and shooting 35mm film",
+            "Ailurophile that melts at the sight of cats"
         ];
     }
 
