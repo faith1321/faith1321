@@ -17,7 +17,8 @@ class Faith extends Human {
 
     String _frameworks = [
         "Flutter",
-        "Unity"
+        "Unity",
+        "React Native"
     ]
 
     List<String> getAbout() {
